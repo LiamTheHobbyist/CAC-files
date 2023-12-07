@@ -15,7 +15,7 @@ zip ties (optinal for wiring)
 
 HOW TO MAKE IT
 
-1. print out all the files from the file coltroller part 2 (i forgot to change the name) place the top down in your slicer (the one with the 6 holes or the one with the one smaller hole) for improved surfuce finish 
+1. print out all the files place the top down in your slicer (the one with the 6 holes or the one with the one smaller hole) for improved surfuce finish 
 
 2. once you are done with that start with glueing the 2 main body pices and the 2 lid pices of the base APART FROM EACH OTHER and i would recomend useing popsical stics on the connecting sides to inprove strenth and also make shure you put the usb wire in to the ole as you close it cause it wont go trough after closing
 

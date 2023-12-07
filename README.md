@@ -40,3 +40,5 @@ watermark shit plz ignor
 This project was fully dsigned by Liam Earnest
 I dont allow anyone to sell my design for money or the finished project without my promission
 if you want to contact me do it through LiamTheHobbiest@gmail.com
+or if you want to leave a revew on my design send me an email
+
